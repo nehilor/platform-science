@@ -1,0 +1,39 @@
+{
+  "name": "platform-science",
+  "version": "0.1.0",
+  "description": "Driver assignment coding exercise for Platform Science",
+  "main": "main.ts",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rimraf ./build && tsc",
+    "start": "npm run build && node build/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djilo/platform-science.git"
+  },
+  "keywords": [
+    "Combinatorial Optimization",
+    "Assignment Problem",
+    "Hungarian Algorithm",
+    "Maximize Reward Function"
+  ],
+  "author": "Danilo R. Unite",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/djilo/platform-science/issues"
+  },
+  "homepage": "https://github.com/djilo/platform-science#readme",
+  "devDependencies": {
+    "@types/node": "^16.6.1",
+    "rimraf": "^3.0.2",
+    "ts-node": "^10.2.0",
+    "typescript": "^4.3.5"
+  },
+  "dependencies": {
+    "@types/inquirer": "^7.3.3",
+    "inquirer": "^8.1.2",
+    "munkres-js": "^1.2.2"
+  }
+}

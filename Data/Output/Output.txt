@@ -1,0 +1,11 @@
+total score: 32.5
+assignments:
+	Driver:Khabib Nurmagomedov
+	Destination:7823 N 19th Ave, Phonix, AZ 85021
+
+	Driver:Bruce Lee
+	Destination:3553 W Dunlap Ave, Phoenix, AZ 85051
+
+	Driver:Manny Pacquiao
+	Destination:7135 E Camelback Rd Ste 101，Scottsdale，AZ 85251
+
