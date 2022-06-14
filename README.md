@@ -82,7 +82,7 @@ The solution can be broken down into the following steps:
 2. Install `git`, if not already installed:
    - See [instructions](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) or google.
 3. Download code:
-   - Run/type `git clone git@github.com:djilo/platform-science.git` in terminal 
+   - Run/type `git clone git@github.com:nehilor/platform-science.git` in terminal 
 4. Enter `platform-science` project directory created by above step:
    - Run/type `cd platform-science`
 5. Install package dependencies:
